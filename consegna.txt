@@ -1,0 +1,19 @@
+✅Creare repository nuova su github
+
+✅Clonare la repository 
+
+✅Creare un branch
+
+✅Creare una cartella per il progetto python
+
+✅Creare un ambiente virtuale
+
+Creare un file per fare 3 operazioni semplici a scelta
+
+✅installare black, isort, sphynx
+
+creare un file di test per il file delle operazioni
+
+Pushare il proprio branch nella repository github
+
+Fai dei commit lungo la strada
