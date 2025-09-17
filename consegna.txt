@@ -8,7 +8,7 @@
 
 ✅Creare un ambiente virtuale
 
-Creare un file per fare 3 operazioni semplici a scelta
+✅Creare un file per fare 3 operazioni semplici a scelta
 
 ✅installare black, isort, sphynx
 
