@@ -12,8 +12,8 @@
 
 ✅installare black, isort, sphynx
 
-creare un file di test per il file delle operazioni
+✅creare un file di test per il file delle operazioni
 
-Pushare il proprio branch nella repository github
+✅Pushare il proprio branch nella repository github
 
-Fai dei commit lungo la strada
+✅Fai dei commit lungo la strada
